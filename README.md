@@ -1,4 +1,4 @@
-# Project-of-Data Visualization
+# Project of Data Visualization
 
 ## Flights History
 
