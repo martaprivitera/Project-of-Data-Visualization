@@ -34,6 +34,7 @@ These dashboards were designed to address our research questions.
 
 - A PDF containing our project report has also been added to this repository for completeness.
 
+### This project was created in collaboration with Alice Parodi and Luca Cilloni, fellow students at the University of Milano-Bicocca.
 
 
 
