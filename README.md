@@ -24,3 +24,16 @@ We believe that this project allowed us to learn on a professional level how to 
 
 ## Content
 
+This repository contains the Flights History project we developed using Tableau:
+
+- The downloadable file, Flights history.twbx, includes several interactive dashboards, which can also be accessed at the following link:
+
+[Flights History Dashboard](https://public.tableau.com/app/profile/marta.privitera/viz/Flightshistory/Flightshistory?publish=yes)
+
+These dashboards were designed to address our research questions.
+
+- A PDF containing our project report has also been added to this repository for completeness.
+
+
+
+
